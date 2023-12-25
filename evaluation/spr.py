@@ -30,7 +30,12 @@ def main():
 
     Note:
         Assumes tap-separated CSV files as input. Assumes that rows are in same order and columns have same length. Nan values are omitted.
-        
+    
+    Return:
+        <filename1>
+        <filename2>
+        <Spearman Rank Correlation Coefficient>
+        <p-value>    
     """)
 
     filePath1 = args['<filePath1>']
