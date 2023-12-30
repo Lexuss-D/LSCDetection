@@ -1,0 +1,4 @@
+rank_absDlater.tsv	predictions/DIFF-FREQ.tsv	0.24267994853915967	0.5292413110551777
+rank_absDlater.tsv	predictions/DIFF-NFREQ.tsv	0.25	0.5164895523012263
+rank_absDlater.tsv	predictions/DIFF-TRSF-FREQ.tsv	-0.45	0.22421610749233659
+rank_absDlater.tsv	predictions/DIFF-TRSF-NFREQ.tsv	-0.45	0.22421610749233659

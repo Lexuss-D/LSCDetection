@@ -1,0 +1,4 @@
+rank_reverse_compare.tsv	predictions/DIFF-FREQ.tsv	0.1338923854009157	0.731278765094574
+rank_reverse_compare.tsv	predictions/DIFF-NFREQ.tsv	0.19999999999999998	0.6059012741795533
+rank_reverse_compare.tsv	predictions/DIFF-TRSF-FREQ.tsv	0.15	0.7000942309691419
+rank_reverse_compare.tsv	predictions/DIFF-TRSF-NFREQ.tsv	0.15	0.7000942309691419
